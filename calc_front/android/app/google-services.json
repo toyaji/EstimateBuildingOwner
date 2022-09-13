@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473778610568",
+    "project_id": "realestatecalc-flutter",
+    "storage_bucket": "realestatecalc-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473778610568:android:72011de341d265b197da3d",
+        "android_client_info": {
+          "package_name": "com.example.calc_front"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473778610568-06a5juiqeudmpegbihbkqmrm70kumuuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHAjgU4jM4QQqzzKiLSidPGt6cDkP7Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473778610568-06a5juiqeudmpegbihbkqmrm70kumuuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
