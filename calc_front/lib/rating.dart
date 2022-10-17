@@ -52,7 +52,7 @@ class ReviewRating extends StatelessWidget {
                   width: 140,
                   child: ElevatedButton(
                     onPressed: () {},
-                    child: Text('다음'),
+                    child: const Text('다음'),
                   ),
                 ),
               ],

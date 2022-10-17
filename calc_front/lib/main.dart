@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:calc_front/rating.dart';
+import 'package:calc_front/address.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const ReviewRating(),
+      home: const ReviewAddress(title: '주소 입력'),
     );
   }
 }
